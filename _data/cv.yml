@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Matteo Esposito
     - name: Date of Birth
-      value: 14th March 1879
+      value: 29th May 1997
     - name: Languages
-      value: English, German
+      value: English, Italian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD Student
+      institution: University of Rome Tor Vergata, Italy
+      year: Present
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master of Science in Computer Science Engineering
+      institution: University of Rome Tor Vergata, Italy
+      year: 2021
       description:
         - Description 1.
         - Description 2.
@@ -31,35 +31,78 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: IT Consultant
+      institution: Regional Council - Lazio Region / Forza Italia Parliamentary Group
+      year: 2021 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - I have recently started an IT Consulting role with the Forza Italia Parliamentary Group at the Regional Council of Lazio. I focus on technological innovation, organizational innovation, and behavior changes in public administration.
+    - title: Adjunct Professor
+      institution: University of Rome "Tor Vergata" / Department of Civil Engineering and Computer Engineering (DICII)
+      year: 2021 - 2022
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Software Engineering II A.Y. 2021 - Present.
+    - title: Teaching Assistant
+      institution: University of Rome "Tor Vergata" / Department of Civil Engineering and Computer Engineering (DICII)
+      year: 2020 - Present
       description:
+        - Fundamentals of Computer Science A.Y. 2020 - 2022;
+        - Algorithm Engineering A.Y. 2021 - 2022;
+        - Software Engineering I A.Y. 2022 - Present.
+    - title: Vice R&D Director
+      institution: Multitel S.rl.
+      year: 2017 - Present
+      description:
+        - For several years, I have served as a Programmer Analyst, developing software and hardware solutions for data security, encryption, and desktop/notebook activity control through centralized servers and distributed software.
+        - Recently, I have taken on the role of Secure Software Engineering, applying the research findings from my industrial Ph.D. studies to technology transfer coordination.
+    - title: Teaching Assistant
+      institution: Academic Initiatives Abroad (A.I.A.)
+      year: 2021 - 2022
+      description:
+        - CSC 308-309 (Software Engineering I & II).
+    - title: Innovation Consultant
+      institution: City of Nettuno / Metropolitan City of Rome Capital
+      year: 2020 - 2022
+      description:
+        - I have recently entered into a collaboration with the City of Nettuno, focusing on technological innovation, organizational innovation, and behavior changes in public administration.
+    - title: Researcher Level IV
+      institution: National Interuniversity Consortium for Telecommunications (CNIT)
+      year: 2019 - 2020
+      description:
+        - I had an enriching and professionally rewarding experience as a researcher for CNIT in the field of 5G and new technologies and scenarios enabled by it.
+    - title: Programmer Analyst
+      institution: H.S. Production S.A.S di Piemontese Grazia & C.
+      year: 2019 - 2020
+      description:
+        - I served as a Programmer Analyst, developing hardware solutions for data security and encryption.
+    - title: Teacher
+      institution: Santa Lucia Filippini Institute
+      year: 2017 - 2020
+      description:
+        - In recent years, I taught courses in the following subjects at the High School of Humanities and Secondary School:
+          - Mathematical Logic and Elements of Discrete Mathematics
+          - Fundamentals of Programming and Robotics
+          - Fundamentals of Control Systems
+    - title: IT Manager
+      institution: Santa Lucia Filippini Institute
+      year: 2013 - 2016
+      description:
+        - Between 2013 and 2016, I had the honor and opportunity to perform IT Management activities for the schools I attended. I proposed expansions and projects for these schools.
+    - title: 3D Designer
+      institution: Circolo Nautico Marina di Nettuno S.p.a
+      year: 2012
+      description:
+        - In the summer of 2012, under the guidance of Engineer Claudio Carnevale (CEO of "Acotel"), I had the honor of working as a 3D designer for a project related to the expansion of the Marina. I recreated the project in 2D, ensuring the correct placement of various technologies/energies passing under the Marina, and created a 3D model. I also created a "Google StreetView" style view of the commercial area.
+    - title: Technician
+      institution: FastComputer
+      year: 2012
+      description:
+        - During the summer of 2012, I also worked as a technician for the local company "Fast Computer," assembling and configuring various equipment in school buildings in collaboration with the Roma per il Terzo Settore Foundation.
+    - title: Director's Assistant and Technician
+      institution: YoungTv
+      year: 2010
+      description:
+        - Between 2010 and 2012, I volunteered as the "vice director" of the television channel "YoungTv." I worked as a technician (broadcasting, technical maintenance of servers, radio connections, and the studio), in multimedia (editing programs/services, creating logos, openers, bumpers, etc.), and in journalism, producing and hosting some segments.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
