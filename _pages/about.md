@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://web.uniroma2.it'>University of Rome Tor Vergata</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>University of Rome Tor Vergata</p>
+    <p>Via del Politecnico, 1</p>
+    <p>Rome, 00133, Italy</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Born on May 29, 1997, I have always been a passionate and multifaceted individual, deeply drawn to literature, numbers, technology, and music. Currently, I am a Ph.D. student in "Computer Science, Control, and Geoinformation" at the University of Rome Tor Vergata, where my fervor for software engineering has found its home.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Within the realm of computer science, I am driven by the intricate art of software engineeing, involving reverse engineering, code refactoring, effort estimation and software architecture design. My research aims to enhance the reliability and efficiency of software systems, focusing on Artificial Intelligence for Secure Software Engineering and I'm committed to contributing valuable insights to this field.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Teaching and mentorship hold a special place in my heart. As a teaching assistant, I guide and inspire budding computer scientists, nurturing their talents and fostering a love for technology.
+
+Beyond academia, I actively engage in social initiatives, leveraging technology to bridge the digital divide and promote technological literacy in underserved communities. I also dedicate my time to preserving culture, national identity, and community unity through various projects and events.
+
+In essence, my life revolves around my passions for technology, education, and community development, with a focus on software reengineering, teaching, and meaningful social engagement.
