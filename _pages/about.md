@@ -7,7 +7,7 @@ subtitle: <a href='https://web.uniroma2.it'>University of Rome Tor Vergata</a>.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>University of Rome Tor Vergata</p>
     <p>Via del Politecnico, 1</p>
