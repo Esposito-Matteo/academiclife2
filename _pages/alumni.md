@@ -8,13 +8,18 @@ nav_order: 6
 ---
 
 # Cosupervised
-Master Student:
 
-- Valentino Perrone     -  2023 
-- Lisa Trombetti        -  2022
-- Alessandra Fanfano    -  2022
-- Valentina Falaschi    -  2022
+## Master Student:
 
-Bachelor Student:
+### 2023
+- Valentino Perrone
 
-- Pierfrancesco Lijoi   -  2023
+### 2022
+- Lisa Trombetti
+- Alessandra Fanfano
+- Valentina Falaschi
+
+## Bachelor Student:
+
+### 2023
+- Pierfrancesco Lijoi
