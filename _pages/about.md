@@ -27,4 +27,4 @@ Teaching and mentorship hold a special place in my heart. As a teaching assistan
 
 Beyond academia, I actively engage in social initiatives, leveraging technology to bridge the digital divide and promote technological literacy in underserved communities. I also dedicate my time to preserving culture, national identity, and community unity through various projects and events.
 
-In essence, my life revolves around my passions for technology, education, and community development, with a focus on software reengineering, teaching, and meaningful social engagement.
+In essence, my life revolves around my passions for technology, education, and community development, with a focus on software engineering, teaching, and meaningful social engagement.
