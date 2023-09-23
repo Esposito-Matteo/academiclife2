@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 29th May 1997
     - name: Languages
-      value: English, Italian
+      value: English, Italian, Spanish
 
 - title: Education
   type: time_table
@@ -15,19 +15,14 @@
       institution: University of Rome Tor Vergata, Italy
       year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Master of Science in Computer Science Engineering
+        - My PhD is focused on the use of Artificial Intelligence for enhanching Secure Software Engineering and vice-versa.
+    - title: Master of Science in Computer Science Engineering cum laude
       institution: University of Rome Tor Vergata, Italy
       year: 2021
-      description:
-        - Description 1.
-        - Description 2.
-
+    - title: Bachelor Degree in Computer Science Engineering
+      institution: University of Rome Tor Vergata, Italy
+      year: 2019
+      
 - title: Experience
   type: time_table
   contents:
@@ -82,59 +77,43 @@
           - Mathematical Logic and Elements of Discrete Mathematics
           - Fundamentals of Programming and Robotics
           - Fundamentals of Control Systems
-    - title: IT Manager
-      institution: Santa Lucia Filippini Institute
-      year: 2013 - 2016
-      description:
-        - Between 2013 and 2016, I had the honor and opportunity to perform IT Management activities for the schools I attended. I proposed expansions and projects for these schools.
-    - title: 3D Designer
-      institution: Circolo Nautico Marina di Nettuno S.p.a
-      year: 2012
-      description:
-        - In the summer of 2012, under the guidance of Engineer Claudio Carnevale (CEO of "Acotel"), I had the honor of working as a 3D designer for a project related to the expansion of the Marina. I recreated the project in 2D, ensuring the correct placement of various technologies/energies passing under the Marina, and created a 3D model. I also created a "Google StreetView" style view of the commercial area.
-    - title: Technician
-      institution: FastComputer
-      year: 2012
-      description:
-        - During the summer of 2012, I also worked as a technician for the local company "Fast Computer," assembling and configuring various equipment in school buildings in collaboration with the Roma per il Terzo Settore Foundation.
-    - title: Director's Assistant and Technician
-      institution: YoungTv
-      year: 2010
-      description:
-        - Between 2010 and 2012, I volunteered as the "vice director" of the television channel "YoungTv." I worked as a technician (broadcasting, technical maintenance of servers, radio connections, and the studio), in multimedia (editing programs/services, creating logos, openers, bumpers, etc.), and in journalism, producing and hosting some segments.
+    
 
-
-- title: Open Source Projects
+- title: Volunteer
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Rotaract Club Anzio - Nettuno
+      year: 2016-now
+      description: Five time President, one time Vice President and Secretary.
+    - title: Santuario N.S. Delle Grazie e Santa Maria Goretti
+      year: 2016-now
+      description: Organist
+    - title: City of Nettuno Youth Choir
+      year: 2017-2020
+      description: President of the Youth Choir of the City of Nettuno
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Paul Harris Fellow (PHF), Rotarty International
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Artificial Intelligence for Secure Software Engineering.
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Vulnerability Characterization.
+        - Vulnerability Prediction.
+        - Effort estimation.
+        - Severity estimation.
+    - title: Large Language Model for Software Engineering Tasks.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Music:</u> Organist, Bass singer
+    - <u>Video Games:</u> Final Fantasy, Kingdom Hearts (mainly)
+    - <u>Sport:</u> Functional Training
+    
