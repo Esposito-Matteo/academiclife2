@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: alumni
 permalink: /alumni/
 title: alumni
 description: A list of past undegraduate and graduate students for which I was a supervisor or a cosupervisor
