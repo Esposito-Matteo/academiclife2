@@ -1,29 +1,20 @@
-- title: Master of Science in Computer Science Engineering
+- title: Adjunct Professor
   type: time_table
   contents:
-    - title: Valentino Perrone
+    - title: Software Engineering II
       institution: University of Rome Tor Vergata
-      description:
-        - Cosupervised
-      year: 2023
+      year: 2022
         
-    - title: Alessandra Fanfano
-      institution: University of Rome Tor Vergata
-      description:
-        - Cosupervised
-      year: 2022
+    
       
-    - title: Lisa Trombetti
-      institution: University of Rome Tor Vergata
-      description:
-        - Cosupervised
-      year: 2022
-      
-- title: Bachelor Degree in Computer Science Engineering
+- title: Teaching Assistant
   type: time_table
   contents:
-    - title: Pierfrancesco Lijoi
+    - title: Algorithm and Data Structure
       institution: University of Rome Tor Vergata
       description:
-        - Cosupervised
-      year: 2023
+      year: 2022
+    - title: Programming Foundamentals
+      institution: University of Rome Tor Vergata
+      description:
+      year: 2019-2022
