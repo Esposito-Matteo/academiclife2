@@ -1,0 +1,34 @@
+or Students
+      value: 1
+    - name: Cosupervised
+      value: 4
+
+- title: Master of Science in Computer Science Engineering
+  type: time_table
+  contents:
+    - title: Valentino Perrone
+      institution: University of Rome Tor Vergata
+      description:
+        - Cosupervised
+      year: 2023
+        
+    - title: Alessandra Fanfano
+      institution: University of Rome Tor Vergata
+      description:
+        - Cosupervised
+      year: 2022
+      
+    - title: Lisa Trombetti
+      institution: University of Rome Tor Vergata
+      description:
+        - Cosupervised
+      year: 2022
+      
+- title: Bachelor Degree in Computer Science Engineering
+  type: time_table
+  contents:
+    - title: Pierfrancesco Lijoi
+      institution: University of Rome Tor Vergata
+      description:
+        - Cosupervised
+      year: 2023
