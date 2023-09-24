@@ -10,6 +10,10 @@
 - title: Teaching Assistant
   type: time_table
   contents:
+    - title: Software Engineering I
+      institution: University of Rome Tor Vergata
+      description:
+      year: 2023
     - title: Algorithm and Data Structure
       institution: University of Rome Tor Vergata
       description:
