@@ -1,8 +1,11 @@
 ---
 layout: post
 date: 2023-09-26 08:50:00-0400
-inline: true
-related_posts: false
+title: Exploring the Academic Odyssey Join Me on My Journey!
+date: 2023-04-24 21:01:00
+description: Welcome to my academic blog, where I'll be sharing the highs, lows, and thrilling discoveries of my research journey. Join me as I delve into the captivating world of Software Engineering, offer reading recommendations that have inspired me, and share my musings on all things academia. Let's embark on this adventure together and uncover the wonders of knowledge!
+tags: personal
+categories: personal-posts
 ---
 # Welcome to My Academic Blog!
 
