@@ -8,7 +8,7 @@ categories: personal-posts
 ---
 # Welcome to My Academic Blog!
 
-Hey there, and welcome to my academic blog! I'm stoked to have you drop by as I kick off this awesome adventure of sharing my research, reading recommendations, and some of my thoughts with you.
+Hey there, and welcome to my academic blog 🤓! I'm stoked to have you drop by as I kick off this awesome adventure of sharing my research, reading recommendations, and some of my thoughts with you.
 
 No need for formalities; just call me Matteo :D. I'm a research enthusiast with a passion for [Your Research Area]. My academic path is a rollercoaster of questions, 'aha' moments, and loads of time nose-deep in books, articles, and data.
 
@@ -26,5 +26,5 @@ Whether you're a fellow researcher, a student on the hunt for knowledge, or just
 
 Thanks a million for joining me on this academic ride. Here's to uncovering the wonders of knowledge together!
 
-Catch you on the flip side,
+Catch you on the flip side 😼!
 
