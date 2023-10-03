@@ -10,7 +10,7 @@ categories: personal-posts
 
 Hey there, and welcome to my academic blog 🤓! I'm stoked to have you drop by as I kick off this awesome adventure of sharing my research, reading recommendations, and some of my thoughts with you.
 
-No need for formalities; just call me Matteo :D. I'm a research enthusiast with a passion for [Your Research Area]. My academic path is a rollercoaster of questions, 'aha' moments, and loads of time nose-deep in books, articles, and data.
+No need for formalities; just call me Matteo :D. I'm a research enthusiast with a passion for Software Engineering. My academic path is a rollercoaster of questions, 'aha' moments, and loads of time nose-deep in books, articles, and data.
 
 So, what can you expect to find here? Well, it's all about sharing the good stuff:
 
