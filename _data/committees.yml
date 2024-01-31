@@ -11,7 +11,7 @@
 - title: Conferences
   type: committees
   contents:
-    - title: International Conference on Product-Focused Software Process Improvement (PROFES)
+    - title: "International Conference on Product-Focused Software Process Improvement (PROFES)"
       institution: Main Research Track
       department: Program Comittee Member
       year: 2023
@@ -19,11 +19,11 @@
 - title: Whorkshops
   type: committees
   contents:
-    - title: First International Workshop on Quantum Software Engineering: The Next Evolution (QSE-NE) co-located with FSE’24
+    - title: "First International Workshop on Quantum Software Engineering: The Next Evolution (QSE-NE) col-ocated with FSE’24"
       institution: Workshop
       department: Program Comittee Member
       year: 2024
-    - title: 5th International DevOps Quality Management (DevOps-QM) co-located with EASE’24
+    - title: "5th International DevOps Quality Management (DevOps-QM) co-located with EASE’24"
       institution: Workshop
       department: Program Comittee Member
       year: 2024
