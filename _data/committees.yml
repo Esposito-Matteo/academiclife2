@@ -1,0 +1,29 @@
+- title: Statistics
+  type: map
+  contents:
+    - name: Program Committee Member
+      value: 3
+    - name: Conferences
+      value: 1
+    - name: Workshops
+      value: 2
+
+- title: Conferences
+  type: committees
+  contents:
+    - title: International Conference on Product-Focused Software Process Improvement (PROFES)
+      institution: Main Research Track
+      department: Program Comittee Member
+      year: 2023
+      
+- title: Whorkshops
+  type: committees
+  contents:
+    - title: First International Workshop on Quantum Software Engineering: The Next Evolution (QSE-NE) co-located with FSE’24
+      institution: Workshop
+      department: Program Comittee Member
+      year: 2024
+    - title: 5th International DevOps Quality Management (DevOps-QM) co-located with EASE’24
+      institution: Workshop
+      department: Program Comittee Member
+      year: 2024
