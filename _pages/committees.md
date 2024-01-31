@@ -1,5 +1,5 @@
 ---
-layout: alumni
+layout: committees
 permalink: /committees/
 title: committees
 description: A list of committees in which i served
