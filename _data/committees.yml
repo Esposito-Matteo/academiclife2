@@ -3,25 +3,43 @@
   contents:
     - name: Program Committee Member
       value: 3
-    - name: Conferences
+    - name: Organizing Committee Member
       value: 1
+    - name: Conferences
+      value: 4
     - name: Workshops
       value: 2
 
 - title: Conferences
   type: committees
   contents:
+    - title: "12th European Conference On Service-Oriented And Cloud Computing"
+      institution: Proceedings Chair
+      department: Organizing Committee Member
+      year: 2024
+    - title: "24th IEEE International Conference on Source Code Analysis and Manipulation"
+      institution: Main Research Track
+      department: Program Committee Member
+      year: 2024
+    - title: "50th Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA)"
+      institution: Emerging Computing Technologies
+      department: Program Committee Member
+      year: 2024
     - title: "International Conference on Product-Focused Software Process Improvement (PROFES)"
       institution: Main Research Track
-      department: Program Comittee Member
+      department: Program Committee Member
       year: 2023
       
 - title: Whorkshops
   type: committees
   contents:
-    - title: "First International Workshop on Quantum Software Engineering: The Next Evolution (QSE-NE) col-ocated with FSE’24"
+    - title: "	First Workshop on Edge Software Architecture (ECSA) co-located with ICSA’24"
       institution: Workshop
-      department: Program Comittee Member
+      department: Program Committee Member
+      year: 2024
+    - title: "First International Workshop on Quantum Software Engineering: The Next Evolution (QSE-NE) co-located with FSE’24"
+      institution: Workshop
+      department: Program Committee Member
       year: 2024
     - title: "5th International DevOps Quality Management (DevOps-QM) co-located with EASE’24"
       institution: Workshop
