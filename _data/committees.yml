@@ -2,13 +2,13 @@
   type: map
   contents:
     - name: Program Committee Member
-      value: 3
+      value: 6
     - name: Organizing Committee Member
       value: 1
     - name: Conferences
       value: 4
     - name: Workshops
-      value: 2
+      value: 3
 
 - title: Conferences
   type: committees
