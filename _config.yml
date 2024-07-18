@@ -277,7 +277,7 @@ display_categories: ['personal-posts'] # these categories will be displayed on t
 scholar:
 
   last_name: [Esposito]
-  first_name: [Matteo]
+  first_name: [Matteo, M]
 
   style: apa
   locale: en
