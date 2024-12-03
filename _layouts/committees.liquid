@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<!-- _layouts/committees.html -->
+<!-- _layouts/committees.liquid -->
 
 <div class="post">
   <header class="post-header">
@@ -17,11 +17,11 @@ layout: default
           <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
           <div>
           {% if entry.type == "map" %}
-            {% include cv/map.html %}
+            {% include cv/map.liquid %}
           {% elsif entry.type == "committees" %}
-            {% include cv/committees_timeline.html %}
+            {% include cv/committees_timeline.liquid %}
           {% elsif entry.type == "time_table" %}
-            {% include cv/time_table.html %}
+            {% include cv/time_table.liquid %}
           {% else %}
             {{ entry.contents }}
           {% endif %}
