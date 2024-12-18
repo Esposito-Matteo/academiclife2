@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Born May 29, 1997, I have always been passionate and multifaceted, deeply drawn to literature, numbers, technology, and music. Currently, I am finishing my Ph.D. student in "Computer Science, Control, and Geoinformation" at the University of Rome Tor Vergata. I started my new academic life chapter at the University of Oulu as a Researcher in the M3S Cloud Group!
+Born May 29, 1997, I have always been passionate and multifaceted, deeply drawn to literature, numbers, technology, and music. I hold a Ph.D. in "Computer Science, Control, and Geoinformation" from University of Tome "Tor Vergata". I started my new academic life chapter at the University of Oulu as a Researcher in the M3S Cloud Group!
 
 Within computer science, I am driven by the intricate art of software engineering, involving reverse engineering, code refactoring, effort estimation, and software architecture design. My research aims to enhance the reliability and efficiency of software systems, focusing on artificial intelligence for secure software engineering. I'm committed to contributing valuable insights to this field.
 
