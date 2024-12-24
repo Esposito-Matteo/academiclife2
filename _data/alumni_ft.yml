@@ -1,0 +1,63 @@
+- title: Statistics
+  type: map
+  contents:
+    - name: Master Students
+      value: 3
+    - name: Bachelor Students
+      value: 1
+    - name: Cosupervised
+      value: 4
+
+
+- title: Current Students
+  type: map
+  contents:
+    - title: PhD in Computer Science and Engineering
+      type: time_table
+      contents:
+        - title: Alexander Bakhtin
+          institution: University of Oulu, Finland
+          description:
+            - Cosupervised
+          year: 2027
+        - title: Mikel Robredo
+          institution: University of Oulu, Finland
+          description:
+            - Cosupervised
+          year: 2027
+
+
+
+
+- title: Past Students
+  type: map
+  contents:
+    - title: Master of Science in Computer Science Engineering
+      type: time_table
+      contents:
+        - title: Valentino Perrone
+          institution: University of Rome Tor Vergata
+          description:
+            - Cosupervised
+          year: 2023
+            
+        - title: Alessandra Fanfano
+          institution: University of Rome Tor Vergata
+          description:
+            - Cosupervised
+          year: 2022
+          
+        - title: Lisa Trombetti
+          institution: University of Rome Tor Vergata
+          description:
+            - Cosupervised
+          year: 2022
+          
+    - title: Bachelor Degree in Computer Science Engineering
+      type: time_table
+      contents:
+        - title: Pierfrancesco Lijoi
+          institution: University of Rome Tor Vergata
+          description:
+            - Cosupervised
+          year: 2023
