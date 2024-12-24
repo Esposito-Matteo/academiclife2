@@ -2,7 +2,7 @@
 layout: committees
 permalink: /committees/
 title: committees
-description: A list of committees in which i served
+description: A comprehensive list of committees in which I have actively served.
 nav: true
 nav_order: 6
 ---

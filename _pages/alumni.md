@@ -2,7 +2,7 @@
 layout: alumni
 permalink: /alumni/
 title: alumni
-description: A list of past undegraduate and graduate students for which I was a supervisor or a cosupervisor
+description: A detailed list of past undergraduate, graduate, and PhD students whom I have supervised or co-supervised.
 nav: true
 nav_order: 6
 ---

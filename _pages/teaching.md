@@ -2,7 +2,7 @@
 layout: teaching
 permalink: /teaching/
 title: teaching
-description: Short summary of my past and current teaching activities 
+description: A concise overview of my previous and ongoing teaching roles and responsibilities.
 nav: true
 nav_order: 5
 ---
