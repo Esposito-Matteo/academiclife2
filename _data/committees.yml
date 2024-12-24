@@ -2,23 +2,31 @@
   type: map
   contents:
     - name: Program Committee Member
-      value: 6
+      value: 8
     - name: Organizing Committee Member
-      value: 1
+      value: 2
     - name: Conferences
-      value: 4
+      value: 6
     - name: Workshops
       value: 3
 
 - title: Conferences
   type: committees
   contents:
-    - title: "12th European Conference On Service-Oriented And Cloud Computing"
-      institution: Proceedings Chair
+    - title: "19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM'25)"
+      institution: Web Chair
+      department: Organizing Committee Member
+      year: 2025
+    - title: "11th European Conference On Service-Oriented And Cloud Computing (ESOCC'25)"
+      institution: Proceedings Chair, Web Chair, Program Committee Member
       department: Organizing Committee Member
       year: 2025
     - title: "24th IEEE International Conference on Source Code Analysis and Manipulation"
       institution: Main Research Track
+      department: Program Committee Member
+      year: 2024
+    - title: "40th ACM/SIGAPP Symposium On Applied Computing"
+      institution: Quantum Software Engineering Practices Track
       department: Program Committee Member
       year: 2024
     - title: "50th Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA)"

@@ -10,15 +10,27 @@
 - title: Teaching Assistant
   type: time_table
   contents:
+    - title: Advanced Software Quality and Security
+      institution: University of Oulu, Finland
+      description:
+      year: 2025
+    - title: Software Development, Maintenance and Operations 
+      institution: University of Oulu, Finland
+      description:
+      year: 2024
+    - title: Advanced Summer School on Cloud, Edge, and IoT
+      institution: University of Oulu, Finland
+      description:
+      year: 2024
     - title: Software Engineering I
-      institution: University of Rome Tor Vergata
+      institution: University of Rome "Tor Vergata", Italy
       description:
       year: 2023
     - title: Algorithm and Data Structure
-      institution: University of Rome Tor Vergata
+      institution: University of Rome "Tor Vergata", Italy
       description:
       year: 2022
     - title: Programming Foundamentals
-      institution: University of Rome Tor Vergata
+      institution: University of Rome "Tor Vergata", Italy
       description:
-      year: 2019-2022
+      year: 2019-2024

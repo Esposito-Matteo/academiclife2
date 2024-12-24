@@ -11,11 +11,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD Student
+    - title: European PhD in "Computer Science, Control and Geoinformation"
       institution: University of Rome Tor Vergata, Italy
       year: 2024
-      description:
-        - My PhD is focused on the use of Artificial Intelligence for enhanching Secure Software Engineering and vice-versa.
     - title: Master of Science in Computer Science Engineering cum laude
       institution: University of Rome Tor Vergata, Italy
       year: 2021
@@ -27,7 +25,7 @@
   type: time_table
   contents:
     - title: IT Consultant
-      institution: Regional Council - Lazio Region / Forza Italia Parliamentary Group
+      institution: Regional Council - Lazio Region / Parliamentary Group
       year: 2021 - Present
       description:
         - I have recently started an IT Consulting role with the Forza Italia Parliamentary Group at the Regional Council of Lazio. I focus on technological innovation, organizational innovation, and behavior changes in public administration.
